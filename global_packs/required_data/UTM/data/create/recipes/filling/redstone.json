@@ -1,0 +1,21 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "c:netherrack_dusts"
+    },
+    {
+      "amount": 2025,
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:strength"
+      }
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:redstone"
+    }
+  ]
+}

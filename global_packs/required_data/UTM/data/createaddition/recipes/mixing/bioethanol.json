@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:netherrack_dusts"
+    },
+	{
+      "item": "createaddition:biomass"
+    },
+	{
+      "item": "createaddition:biomass"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "createaddition:bioethanol",
+      "amount": 10125
+    }
+  ]
+}

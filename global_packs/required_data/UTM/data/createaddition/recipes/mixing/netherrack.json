@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "c:cobblestone"
+    },
+    {
+      "tag": "c:netherrack_dusts"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "amount": 2025
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:netherrack"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:coal"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "techreborn:coal_dust",
+			"count": 1,
+			"chance": 1.0
+		}
+	]
+}
