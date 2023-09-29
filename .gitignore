@@ -35,5 +35,6 @@ screenshots/
 /*.zip
 /*.dat_old
 /*.dat
+*.bak
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode

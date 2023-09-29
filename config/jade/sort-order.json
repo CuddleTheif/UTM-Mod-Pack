@@ -129,8 +129,6 @@
   "minecraft:fluid_storage": null,
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
-  "polymer:blockstate": null,
-  "polymer:entities": null,
   "waystones:waystone": null,
   "ae2:server_data": null,
   "ae2:charger": null,
@@ -144,5 +142,7 @@
   "ae2:part_tooltip": null,
   "ae2:part_mod_name": null,
   "beautify:hanging_pot.pot_flower": null,
-  "minecraft:trellis.pot_plant": null
+  "minecraft:trellis.pot_plant": null,
+  "polymer:blockstate": null,
+  "polymer:entities": null
 }
