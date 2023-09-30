@@ -30,6 +30,7 @@ logs/
 modernfix/
 saves/
 screenshots/
+config/spark/
 /*.json
 /*.log
 /*.zip
