@@ -1,0 +1,29 @@
+{
+    "type": "techreborn:industrial_grinder",
+    "ingredients": [
+      {
+        "tag": "c:cinnabar"
+      }
+    ],
+    "power": 64,
+    "results": [
+      {
+        "count": 2,
+        "item": "techreborn:cinnabar_dust"
+      },
+      {
+        "count": 1,
+        "item": "techreborn:redstone_small_dust"
+      },
+      {
+        "item": "techreborn:glowstone_small_dust"
+      }
+    ],
+    "tank": {
+      "amount": {
+        "droplets": 40500
+      },
+      "fluid": "minecraft:water"
+    },
+    "time": 100
+  }

@@ -175,7 +175,8 @@
       "CuddleTheif": "https://mc-heads.net/avatar/439119bb2fc043d8abc0625ae0188242",
       "default": "https://via.placeholder.com/256.png",
       "127.0.0.1": "https://api.mcsrvstat.us/icon/127.0.0.1",
-      "utm.modded.fun": "https://api.mcsrvstat.us/icon/utm.modded.fun"
+      "utm.modded.fun": "https://api.mcsrvstat.us/icon/utm.modded.fun",
+      "utm.mcserv.fun": "https://api.mcsrvstat.us/icon/utm.mcserv.fun"
     },
     "dynamicVariables": {
       "default": "Example Text",

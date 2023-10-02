@@ -16,6 +16,10 @@ required = [
     "global_packs/required_resources/"
 ]
 
+optional = [
+    "global_packs/optional_resources/"
+]
+
 [datapacks]
 required = [
     "resourcepacks/",

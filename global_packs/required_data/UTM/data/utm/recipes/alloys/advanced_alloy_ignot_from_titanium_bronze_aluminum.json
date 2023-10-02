@@ -1,0 +1,33 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:item_tags_populated",
+      "values": [
+        "c:aluminum_ingots",
+        "c:bronze_ingots",
+        "c:titanium_ingots"
+      ]
+    }
+  ],
+  "type": "alloy_forgery:forging",
+  "inputs": [
+    {
+      "tag": "c:aluminum_ingots",
+      "count": 3
+    },
+    {
+      "tag": "c:titanium_ingots",
+      "count": 3
+    },
+	  {
+      "tag": "c:bronze_ingots",
+      "count": 3
+    }
+  ],
+  "output": {
+    "id": "techreborn:advanced_alloy_ingot",
+    "count": 6
+  },
+  "min_forge_tier": 2,
+  "fuel_per_tick": 5
+}

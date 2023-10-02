@@ -1,0 +1,21 @@
+{
+    "type": "indrev:pulverize",
+    "ingredients": {
+      "tag": "c:cinnabar"
+    },
+    "output": [
+        {
+            "item": "techreborn:cinnabar_dust",
+            "count": 1
+          },
+          {
+            "item": "techreborn:redstone_small_dust",
+            "count": 2,
+            "chance": 0.50
+          }
+    ],
+    "processTime": 200,
+    "extra": {
+  
+    }
+  }

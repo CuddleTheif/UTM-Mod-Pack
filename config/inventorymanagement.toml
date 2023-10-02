@@ -14,7 +14,7 @@ configVersion = 1
 	# Whether the buttons should use light theme (vanilla),
 	# dark theme (VanillaTweaks dark UI), or automatically choose 
 	# based on whether you have VanillaTweaks dark UI enabled.
-	guiTheme = "dark"
+	guiTheme = "auto"
 	# Customize a default for button position.
 	defaultPosition = "(-4,-1)"
 	# Customize button position on a per-screen basis.

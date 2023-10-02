@@ -606,6 +606,22 @@ mode = "fancy"
 			[light_sources.settings.entities.ae2]
 				tiny_tnt_primed = true
 
+			[light_sources.settings.entities.the_bumblezone]
+				variant_bee = true
+				honey_slime = true
+				beehemoth = true
+				bee_queen = true
+				rootmin = true
+				sentry_watcher = true
+				pollen_puff = true
+				dirt_pellet = true
+				thrown_stinger_spear = true
+				bee_stinger = true
+				honey_crystal_shard = true
+				electric_ring_entity = true
+				purple_spike_entity = true
+				cosmic_crystal_entity = true
+
 		[light_sources.settings.block_entities]
 
 			[light_sources.settings.block_entities.minecraft]
@@ -682,4 +698,7 @@ mode = "fancy"
 				chair = true
 				table = true
 				wooden_bench = true
+
+			[light_sources.settings.block_entities.the_bumblezone]
+				honey_cocoon = true
 
