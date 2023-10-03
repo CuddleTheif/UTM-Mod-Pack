@@ -1,0 +1,17 @@
+  {
+    "type": "techreborn:compressor",
+    "power": 2,
+    "time": 100,
+    "ingredients": [
+      {
+        "item": "modern_industrialization:bronze_rod",
+        "count": 1
+      }
+    ],
+    "results": [
+      {
+        "item": "modern_industrialization:bronze_ring"
+      }
+    ]
+  }
+  

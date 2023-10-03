@@ -8,7 +8,7 @@
   "pureMirror": false,
   "renderYourselfInPortal": true,
   "correctCrossPortalEntityRendering": true,
-  "reducedPortalRendering": false,
+  "reducedPortalRendering": true,
   "netherPortalOverlay": false,
   "enableNetherPortalEffect": true,
   "enableClientPerformanceAdjustment": true,

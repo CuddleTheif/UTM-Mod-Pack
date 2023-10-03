@@ -26,7 +26,7 @@ custom_rarities = [  ]
 
     ["Loot Beams".Items]
         only_equipment = false
-blacklist = [  ]
+blacklist = [ "minecraft:netherrack", "minecraft:stone", "minecraft:cobblestone", "minecraft:dirt", "minecraft:grass_block" ]
         all_items = true
 whitelist = [  ]
         only_rare = false

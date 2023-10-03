@@ -55,6 +55,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "entangled": {
+    "entangled_block_component": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,

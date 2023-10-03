@@ -701,4 +701,9 @@ mode = "fancy"
 
 			[light_sources.settings.block_entities.the_bumblezone]
 				honey_cocoon = true
+				potion_candle = true
+				crystalline_flower = true
+				essence_block = true
+				infinity_barrier = true
+				state_focused_brushable_block_entity = true
 
