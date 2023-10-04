@@ -15,5 +15,5 @@
 	verticalScrollSensitivity: 10,
 	horizontalScrollSensitivity: 10,
 	tooltipTransparency: 1.0,
-	removeFirstLinePadding: true
+	removeFirstLinePadding: false
 }
