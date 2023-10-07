@@ -1,0 +1,14 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true
+  },
+  "hideBackground": {
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true
+  }
+}

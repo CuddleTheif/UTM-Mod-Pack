@@ -1,0 +1,97 @@
+
+# Change Log
+All notable changes to this modpack will be documented in this file.
+ 
+The format is based on [Keep a Changelog](http://keepachangelog.com/)
+and this project adheres to [Semantic Versioning](http://semver.org/).
+ 
+## [0.1.0] - 2023-10-07
+ 
+### Added
+
+#### Mods
+
+- [BetterCompatibilityChecker](https://modrinth.com/mod/better-compatibility-checker) Shows Modpack versions on servers now
+
+- [Clumps](https://modrinth.com/mod/clumps) XP clumps combine for better performances
+ 
+- [Don't clear chat history!](https://modrinth.com/mod/dcch) Keep chat history when logging of server
+
+- [Tips](https://modrinth.com/mod/tips) Adds tips to loading screen, escape menu, and more
+
+- [Advancement Frames](https://modrinth.com/mod/advancement-frames) Adds item frames for showing off advancements!
+
+- [Alternate Current](https://modrinth.com/mod/alternate-current) Performance improvements for redstone
+
+- [Better Lily Pads](https://modrinth.com/mod/better-lily-pads) Allows blocks to be placed on lilly pads
+
+- [Create Foundry](https://modrinth.com/mod/createfoundry) Create addon allowing ores to be melted and poured out into ignots and gems
+
+- [Death Log](https://modrinth.com/mod/deathlog) Adds a log of your deaths
+
+- [MmmMmmMmmMmm](https://modrinth.com/mod/mmmmmmmmmmmm) Adds a armor stand dummy for seeing DPF
+
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) Reduces games performance when TABed out
+
+- [Eldritch Mobs](https://modrinth.com/mod/eldritch-mobs) Adds new stronger versions of mobs
+
+- [You've Goat to be kidding me!](https://modrinth.com/mod/goated) Adds Viking and goat related stuff
+
+- [Horse Stats Vanilla](https://modrinth.com/mod/horsestatsvanilla) Adds the horses stats to their inventory screen
+
+- [Storage Labels](https://modrinth.com/mod/labels) Adds fancy labels for your storage containers
+
+- [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader) Speeds up loading of switching languages
+
+- [Let Me Despawn](https://modrinth.com/plugin/lmd) Allows mobs holding items to despawn and drop their item for performance
+
+- [Mobs on Rails](https://modrinth.com/mod/mobs-on-rails) Allows mobs to walk over rails
+
+- [More Mobs](https://modrinth.com/datapack/more-mobs) Adds visual variants to many vanilla mobs
+
+- [Moyai](https://modrinth.com/mod/moyai) Adds a moyai block found in the world
+
+- [Mystical Oak Tree](https://modrinth.com/mod/mystical-oak-tree) Adds a mystical tree you can talk to
+
+- [Mythic Mounts](https://modrinth.com/mod/mythic-mounts) Adds a couple fancy mounts like griffins
+
+- [One Time Overrides](https://modrinth.com/mod/one-time-overrides) Allows default config, settings, etc to be set for the modpack
+
+- [Raknetify](https://modrinth.com/plugin/raknetify) Adds multi channel connections for connecting to servers with slow connections
+
+- [Snowy Spirit](https://modrinth.com/mod/snowy-spirit) Adds many winter themed blocks and items
+
+- [Stendhal](https://modrinth.com/mod/stendhal) Improves text editing in chat, books, signs, etc
+
+- [Bookshelf](https://modrinth.com/mod/bookshelf-lib) Library mod needed for Stendhal
+
+- [Supplementaries](https://modrinth.com/mod/supplementaries) Adds a bunch of little items like clocks, signposts, faucets, etc
+
+- [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared) Add variants to Supplementaries and a few more items
+
+- [Furniture Expanded](https://modrinth.com/mod/furniture-expanded) Adds a couple really cute 
+Furniture
+
+#### Resourcepacks
+
+- [Midnighttigger's Default Connected Textures](https://modrinth.com/resourcepack/mt-ct-d/version/tfKvt8nl) Allows vanilla connected textures with Fusion Mod
+
+#### UTM Datapack/Resourcepack
+
+- Added recipes for crushing/grinding create crimsite using TechReborn, MI, Indev, etc 
+
+- Made Waystones uncraftable and no longer drop on break. For better game balance. (Future plan to give warning to players)
+
+- Added tip to tips for getting lava from cauldrons using create
+
+### Removed
+
+- [Garnished](https://modrinth.com/mod/create-garnished) Causes crash with AdventureZ mod
+
+- [Continuity](https://modrinth.com/mod/continuity) Causes graphic issues with AE2, uneeded with CT resourcepack w/ Fusion mod
+
+### Updated
+
+- [Moonlight Lib](https://modrinth.com/mod/moonlight) 2.8.44
+
+- [Create](https://modrinth.com/mod/create-fabric-sodium-fix) Temp version until Create updates to work with Sodium 5.0

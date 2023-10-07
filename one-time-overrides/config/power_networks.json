@@ -1,0 +1,39 @@
+{
+  "coils": {
+    "capacities": {
+      "basic": 256,
+      "improved": 1024,
+      "advanced": 4096,
+      "ultimate": 16384
+    },
+    "transferRates": {
+      "basic": 256,
+      "improved": 1024,
+      "advanced": 4096,
+      "ultimate": 16384
+    }
+  },
+  "textures": {
+    "ultimateCoil": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3YjNmOTM5OWU0Y2JhZTgwYmJmZDc5ZDFhZmQxMTMyMzdhNjM3ZDcwMjRiYmNhY2Y1ZDdkZDAyYzNlZGQ1OTEifX19",
+    "inputIndicator": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VhMmFjMGViNWUyYTBkZjc2NzQ3NTFlNTU4ZjBiNTU4OWVlMDg5N2I3MGY1YTkzNzZmOGIzYWQ4N2E1NjI2ZWEifX19",
+    "outputIndicator": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3NTg1NDllMGExYjVkZDBmNGFmOWFlNTBmMzNhOGRhOGI2ODlmZWUxNWVhOGJiOTU3ZDQ1ZWQyYmNiNTUwMzIifX19",
+    "wire": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VhYTQ5MmVmODA2NWQxMGM0M2M3ZTUzNGM0ZjcyMjk4Y2U0OTI3MzA0YmNjNmE4MDMxYTg5ZWE5OTcyNWEyNGQifX19",
+    "basicCoil": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjUwNjI3NzJkMmM5MmUwMzU1YWMyZmNhOGMyYTQwY2M5NTViMDZmZTRkNWVmZWU3ODE5M2I4MTE2NjhkZmFkMCJ9fX0",
+    "improvedCoil": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGRkODAwMDYwMjFkZGM0YjIxMDYzMDMyMzZiNTYwNTUzYzliZTdkYjMwOGRkMTEzZGI4NmI2NGE1Yjk4ZDNhNyJ9fX0=",
+    "advancedCoil": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FhZTNhYjQ1OTc3ODI1MWVkOGNjZjE3MzMxNjBkZDZlYzFiYTkzOGY4NzJmMjU3YmNmZThhMzIzZDhiOTEyMTkifX19"
+  },
+  "misc": {
+    "useDoubleLeads": false,
+    "allowAdventureModeInteractions": false,
+    "allowRemoteEdits": true
+  },
+  "client": {
+    "segmentsPerBlock": 8,
+    "wireWidth": 0.05,
+    "hangFactor": 1.5,
+    "colors": [
+      8931378,
+      13663577
+    ]
+  }
+}

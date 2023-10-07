@@ -1,0 +1,22 @@
+{
+    "type": "techreborn:industrial_grinder",
+    "ingredients": [
+      {
+        "tag": "create:stone_types/crimsite"
+      }
+    ],
+    "power": 64,
+    "results": [
+      {
+        "count": 5,
+        "item": "spelunkery:raw_iron_nugget"
+      }
+    ],
+    "tank": {
+      "amount": {
+        "droplets": 40500
+      },
+      "fluid": "minecraft:water"
+    },
+    "time": 100
+  }

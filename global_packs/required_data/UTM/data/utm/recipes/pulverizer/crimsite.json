@@ -1,0 +1,22 @@
+{
+    "type": "indrev:pulverize",
+    "ingredients": {
+      "tag": "create:stone_types/crimsite"
+    },
+    "output": [
+        {
+            "item": "create:crushed_raw_iron",
+            "count": 1,
+            "chance": 0.4
+          },
+          {
+            "count": 1,
+            "item": "spelunkery:raw_iron_nugget",
+            "chance": 0.4
+          }
+    ],
+    "processTime": 100,
+    "extra": {
+  
+    }
+  }

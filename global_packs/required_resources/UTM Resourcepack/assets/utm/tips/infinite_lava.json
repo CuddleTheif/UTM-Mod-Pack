@@ -1,0 +1,13 @@
+{
+    "fabric:load_conditions": [
+        {
+          "condition": "fabric:all_mods_loaded",
+          "values": [
+            "create"
+          ]
+        }
+    ],
+    "tip": {
+      "text": "Need some lava? Create pipes can take lava directly from a cauldron! :O"
+    }
+  }

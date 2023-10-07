@@ -1,0 +1,16 @@
+{
+    "type": "techreborn:grinder",
+    "ingredients": [
+      {
+        "tag": "create:stone_types/crimsite"
+      }
+    ],
+    "power": 2,
+    "results": [
+      {
+        "count": 3,
+        "item": "spelunkery:raw_iron_nugget"
+      }
+    ],
+    "time": 200
+  }

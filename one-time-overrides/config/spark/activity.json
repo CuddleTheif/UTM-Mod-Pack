@@ -1,0 +1,93 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "CuddleTheif",
+      "uniqueId": "439119bb-2fc0-43d8-abc0-625ae0188242"
+    },
+    "time": 1696685734713,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/SgFOb9kiGH"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CuddleTheif",
+      "uniqueId": "439119bb-2fc0-43d8-abc0-625ae0188242"
+    },
+    "time": 1696685480232,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Hdd2fzmWik"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CuddleTheif",
+      "uniqueId": "439119bb-2fc0-43d8-abc0-625ae0188242"
+    },
+    "time": 1696685426366,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/lzENvNM8fs"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CuddleTheif",
+      "uniqueId": "439119bb-2fc0-43d8-abc0-625ae0188242"
+    },
+    "time": 1696485560960,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/qOa6ovcSo1"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CuddleTheif",
+      "uniqueId": "439119bb-2fc0-43d8-abc0-625ae0188242"
+    },
+    "time": 1696232186513,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/vrpMUESve4"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CuddleTheif",
+      "uniqueId": "439119bb-2fc0-43d8-abc0-625ae0188242"
+    },
+    "time": 1696232071969,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Nd5vYAPICl"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "CuddleTheif",
+      "uniqueId": "439119bb-2fc0-43d8-abc0-625ae0188242"
+    },
+    "time": 1696035290108,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9aFlJ1QriN"
+    }
+  }
+]
