@@ -5,6 +5,70 @@ All notable changes to this modpack will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
  
+## [0.1.1] - 2023-10-08
+
+### Added
+
+#### Mods
+
+- [Factocrafty](https://modrinth.com/mod/factocrafty) Big tech mod with many new ores based on IC2 and BuildCraft
+
+- [Arcanus: Continuum](https://modrinth.com/mod/arcanus-continuum) Adds simple mogic based on EB Wizardry
+
+- [Crystals Overhauled](https://modrinth.com/mod/crystals-overhauled) Adds beautiful crystals to the game, each with its own set of tools and armor
+
+- [All The Fan Made Discs](https://modrinth.com/mod/all-the-fan-made-discs) Adds 79 discs made by the community
+
+
+### Removed
+
+#### Mods
+
+- [JCPlugin](https://www.curseforge.com/minecraft/mc-mods/jcplugin) Library Mod not used anymore
+
+- [Bad Packets](https://modrinth.com/mod/badpackets) Library Mod not used anymore
+
+- [BetterZ](https://modrinth.com/datapack/betterz) Compat Mod not used anymore
+
+- [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api) Library Mod not used anymore
+
+- [Jam Lib](https://modrinth.com/mod/jamlib) Library Mod not used anymore
+
+- [LibZ](https://modrinth.com/mod/libz) Library Mod not used anymore
+
+- [NotEnoughCrashes](https://modrinth.com/mod/notenoughcrashes) Doesn't actually do anything
+
+- [PaladinZ](https://modrinth.com/datapack/paladinz) Compat Mod not used anymore
+
+- [Puzzle](https://modrinth.com/mod/puzzle) Library Mod not used anymore
+
+- [Raknetify](https://modrinth.com/plugin/raknetify) Causes issue on connecting sometimes with Imerssive Portals
+
+- [Recipe Book Delight](https://modrinth.com/mod/recipe-book-delight) Removed recipe book and have EMI so no need
+
+- [Rhino](https://modrinth.com/mod/rhino) Library Mod not used anymore
+
+- [SoulZ](https://modrinth.com/datapack/soulz) Compat Mod not used anymore
+
+- [Spoornpacks](https://modrinth.com/mod/spoornpacks) Library Mod not used anymore
+
+- [WizardZ](https://modrinth.com/datapack/wizardz) Compat Mod not used anymore
+
+- [Yet another config lib](https://modrinth.com/mod/yacl) Library Mod not used anymore
+
+#### Resourcepacks
+
+- [Enchanced Travelers Backpack GUI Darkmode](https://modrinth.com/resourcepack/enhanced-travelers-backpack-gui/version/IqAqzldJ) Doesn't seem to work so removed
+
+### Changed
+
+#### Mods
+
+- [Better Furnaces Refored](https://modrinth.com/mod/better-furnaces-reforged) Lowered version to use the lowered FactoryAPI mod
+
+- [FactoryAPI](https://modrinth.com/mod/factory-api) Lowered version to work with Factocrafty. Will update when that updates.
+
+
 ## [0.1.0] - 2023-10-07
  
 ### Added

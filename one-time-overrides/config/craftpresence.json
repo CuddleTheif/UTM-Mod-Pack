@@ -177,7 +177,8 @@
       "127.0.0.1": "https://api.mcsrvstat.us/icon/127.0.0.1",
       "utm.modded.fun": "https://api.mcsrvstat.us/icon/utm.modded.fun",
       "utm.mcserv.fun": "https://api.mcsrvstat.us/icon/utm.mcserv.fun",
-      "raknet;utm.mcserv.fun": "https://api.mcsrvstat.us/icon/raknet;utm.mcserv.fun"
+      "raknet;utm.mcserv.fun": "https://api.mcsrvstat.us/icon/raknet;utm.mcserv.fun",
+      "raknetl;utm.mcserv.fun": "https://api.mcsrvstat.us/icon/raknetl;utm.mcserv.fun"
     },
     "dynamicVariables": {
       "default": "Example Text",

@@ -883,6 +883,10 @@
     "snowyspirit:glow_lights_purple": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "factocrafty:rubber_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],
